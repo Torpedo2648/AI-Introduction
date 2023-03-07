@@ -8,4 +8,4 @@
 ## 曲线拟合(curve_fit)
 利用多层感知机，即BP神经网络
 ## 多分类(fashion_mnist)
-利用卷积神经网络。本来还有个mnist，但是太简单了，于是用升级版————fashion mnist
+利用卷积神经网络。本来还有个mnist，但是太简单了，于是用升级版———fashion mnist
